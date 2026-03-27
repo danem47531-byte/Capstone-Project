@@ -229,10 +229,7 @@ Customer purchase behavior in men's fashion on Flipkart is driven by **discount 
  ┃ ┗ 📄 unique_price.csv                            # Unique price values
  ┣ 📊 Flipkart analysis dashboard.pbix              # Power BI interactive dashboard
  ┣ 📄 Capstone Project On Flipkart.pdf              # Full project report with screenshots
- ┣ 📄 Capstone Project On Flipkart.docx             # Word document version of report
- ┗ 🔗 Video link.pdf                                # Four-part video walkthrough links
-```
-
+ ┗ 📄 Capstone Project On Flipkart.docx             # Word document version of report
 ---
 
 ## 🚀 How to Run
@@ -251,16 +248,6 @@ Customer purchase behavior in men's fashion on Flipkart is driven by **discount 
 5. Open `Flipkart analysis dashboard.pbix` in **Power BI Desktop** for the interactive dashboard
 
 > **Note:** To re-run the web scraper, open `Web scraping flipcart dataset.ipynb`. Be aware that Flipkart may block automated requests — the scraper includes delays to reduce this risk.
-
----
-
-## 🎥 Project Walkthrough
-
-Four-part video walkthrough available here:
-- 🔗 [Video 1 — Watch on Loom](https://www.loom.com/share/71a991033d3f410eada98bc4ceb8287b)
-- 🔗 [Video 2 — Watch on Loom](https://www.loom.com/share/0b4a8f04a7504808a03f6e95e089d2c9)
-- 🔗 [Video 3 — Watch on Loom](https://www.loom.com/share/d9d27cfc163f4593bf68d90df5a71c24)
-- 🔗 [Video 4 — Watch on Loom](https://www.loom.com/share/e5b636b743cd431f9c9880ae157c54e7)
 
 ---
 
